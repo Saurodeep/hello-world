@@ -1,2 +1,2 @@
 # hello-world
-First Github Repo
+New to GitHub and this is my first tutorial project
